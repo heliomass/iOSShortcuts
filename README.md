@@ -29,3 +29,10 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ![](readme_images/2d.png)
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/20037c586a5e44cc97b94d6b9e560e22), or download it as a `.wflow` file from this repository instead.
+
+## Stache
+### Description
+For some reason, [Stache](http://getstache.com) doesn't provide access via the iOS share sheet when using Chrome. This workflow provides the missing functionality. To use choose "Share" in Chrome, then "Run Workflow" from the share sheet and finally "Stache".
+
+### Installation
+You can install the workflow directly from [this link](https://workflow.is/workflows/52267a774ccd46949db187bb53f52aac), or download it as a `.wflow` file from this repository instead.
