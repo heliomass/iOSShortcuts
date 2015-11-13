@@ -36,3 +36,10 @@ For some reason, [Stache](http://getstache.com) doesn't provide access via the i
 
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/52267a774ccd46949db187bb53f52aac), or download it as a `.wflow` file from this repository instead.
+
+## Toggle Gamma
+### Description
+A simple workflow to toggle GammaThingy on and off. Add it to your homescreen, and the workflow will return you home after performing the toggle.
+
+### Installation
+You can install the workflow directly from [this link](https://workflow.is/workflows/82e7348af5ac48d99b47184c8a17d205), or download it as a `.wflow` file from this repository instead.
