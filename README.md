@@ -43,3 +43,10 @@ A simple workflow to toggle GammaThingy on and off. Add it to your homescreen, a
 
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/82e7348af5ac48d99b47184c8a17d205), or download it as a `.wflow` file from this repository instead.
+
+## Battery Level
+### Description
+A simple workflow for your Today Widget which shows the current battery percentage. Useful for when you're not showing that information in the status bar.
+
+### Installation
+You can install the workflow directly from [this link](https://workflow.is/workflows/241944156d0f4c8baae93a639fdab06f), or download it as a `.wflow` file from this repository instead.
