@@ -44,7 +44,7 @@ A simple workflow to toggle [GammaThingy](https://github.com/thomasfinch/GammaTh
 ![](readme_images/3a.png)
 
 ### Installation
-You can install the workflow directly from [this link](https://workflow.is/workflows/82e7348af5ac48d99b47184c8a17d205), or download it as a `.wflow` file from this repository instead.
+You can install the workflow directly from [this link](https://workflow.is/workflows/dd0d7648bdcc403284211ca31de7e848), or download it as a `.wflow` file from this repository instead.
 
 ## Battery Level
 ### Description
