@@ -34,6 +34,8 @@ You can install the workflow directly from [this link](https://workflow.is/workf
 ### Description
 For some reason, [Stache](http://getstache.com) doesn't provide access via the iOS share sheet when using Chrome. This workflow provides the missing functionality. To use choose "Share" in Chrome, then "Run Workflow" from the share sheet and finally "Stache".
 
+![](readme_images/stache01.png)
+
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/52267a774ccd46949db187bb53f52aac), or download it as a `.wflow` file from this repository instead.
 
