@@ -78,3 +78,16 @@ I have chosen not to add this workflow to the official gallery at this time, due
 When the Metro status contains too much content, the Today widget will freeze, and the only workaround right now is to restart the phone.
 
 The Workflow development team have been informed of the issue, and given the severity of the bug we can but hope it will be addressed in their next release.
+
+## Image to Desktop
+### Description
+Sometimes you just want to send a file or an image from your iOS device and have it appear directly on your Mac's desktop, without having to load up the DropBox app and then locate it on your Mac after the upload.
+
+This workflow combines with [Hazel](https://www.noodlesoft.com/hazel.php) using [DropBox](https://www.dropbox.com) as a pipe between the two. You simply select the workflow from the share sheet, and your chosen file or image will appear on your desktop moments later.
+
+![](readme_images/imagetodesktop01.png)
+
+### Installation
+Add `Image to Desktop.wflow` from this repository to your Workflow app. The workflow when run will create a new directory at `Dropbox/Photos/Sent iOS`.
+
+Then, install the Hazel rules from `Sent iOS.hazelrules` and apply them to the aforementioned directory.
