@@ -91,3 +91,13 @@ This workflow combines with [Hazel](https://www.noodlesoft.com/hazel.php) using 
 Add `Image to Desktop.wflow` from this repository to your Workflow app. The workflow when run will create a new directory at `Dropbox/Photos/Sent iOS`.
 
 Then, install the Hazel rules from `Sent iOS.hazelrules` and apply them to the aforementioned directory.
+
+## Flashy Screen
+This deeply irresponsible workflow will make your screen flash at high speed along with the backlight. I can't actually think of a sensible use case for this.
+
+__*WARNING: Please don't run this workflow if you suffer from seizures triggered by flashing lights.*__
+
+![](readme_images/flashyscreen01.png)
+
+### Installation
+You can install the workflow by downloading the `.wflow` file directly from this repository.
