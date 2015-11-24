@@ -39,9 +39,11 @@ You can install the workflow directly from [this link](https://workflow.is/workf
 
 ## Toggle Gamma
 ### Description
-A simple workflow to toggle [GammaThingy](https://github.com/thomasfinch/GammaThingy) on and off. Add it to your homescreen, and the workflow will return you home after performing the toggle.
+A simple workflow to toggle [GammaThingy](https://github.com/thomasfinch/GammaThingy) on and off. Add it to your homescreen or Today Widget, and the workflow will return you home after performing the toggle.
 
 ![](readme_images/3a.png)
+
+![](readme_images/3b.png)
 
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/dd0d7648bdcc403284211ca31de7e848), or download it as a `.wflow` file from this repository instead.
