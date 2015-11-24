@@ -56,3 +56,23 @@ A simple workflow for your Today Widget which shows the current battery percenta
 
 ### Installation
 You can install the workflow directly from [this link](https://workflow.is/workflows/241944156d0f4c8baae93a639fdab06f), or download it as a `.wflow` file from this repository instead.
+
+## MTL Metro Status
+### Description
+MTL Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget, or on your homescreen as an alternative to the webapp.
+
+![](readme_images/5a.png)
+
+![](readme_images/5b.png)
+
+![](readme_images/5c.png)
+
+### Installation
+You can install the workflow by downloading the `.wflow` file directly from this repository.
+
+### Issues
+I have chosen not to add this workflow to the official gallery at this time, due to a severe bug with the current version of Workflow (v1.4.1).
+
+When the Metro status contains too much content, the Today widget will freeze, and the only workaround right now is to restart the phone.
+
+The Workflow development team have been informed of the issue, and given the severity of the bug we can but hope it will be addressed in their next release.
