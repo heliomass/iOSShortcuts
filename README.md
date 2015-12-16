@@ -133,3 +133,12 @@ A Workflow allowing you to easily import Python scripts into [Pythonista](http:/
 Install `Import to Pythonista.wflow` from this repository as normal.
 
 As a one-off, you'll need to manually import the Python script. Open `ImportViaWorkflow.py` from this repository and copy / paste the script into Pythonista, ensuring that the name of the script matches `ImportViaWorkflow.py`.
+
+## Next Appointment
+### Description
+A workflow to take you to your next appointment with [Transit App](http://transitapp.com).
+
+![](readme_images/NextAppointment01.png)
+
+### Installation
+You can install the workflow by downloading the `.wflow` file directly from this repository.
