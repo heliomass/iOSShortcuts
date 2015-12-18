@@ -142,3 +142,12 @@ A workflow to take you to your next appointment with [Transit App](http://transi
 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
+
+## Tweet Splitter
+### Description
+Do you get annoyed with Twitter's 140 character limit? This Workflow will integrate with [Pythonista](http://omz-software.com/pythonista/) to split your oversized tweet over two or more smaller tweets.
+
+![](readme_images/tweetsplitter01.png)
+
+### Installation
+Make use of the Import to Pythonista workflow above to import `TweetSplitter.py` into Pythonista, and then install the `Tweet Splitter.wflow` workflow as usual.
