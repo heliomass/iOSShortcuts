@@ -123,7 +123,7 @@ This workflow is somewhat experimental, and as such you shouldn't rely on it wor
 * The notification can fail to be sent due to a bug in the Workflow app that can cause notifications to bottleneck the workflow. Usually the update has been posted by this point.
 * Sometimes there's enough signal for the workflow to try and make the update, but not enough for the update to succeed. In these cases, the workflow will fail silently and you will see an error to this effect when you next open the app.
 
-## Workflow Import
+## Import to Pythonista
 ### Description
 A Workflow allowing you to easily import Python scripts into [Pythonista](http://omz-software.com/pythonista/). You can either invoke it via the share sheet, or run the workflow from the app and manually enter a URL.
 
