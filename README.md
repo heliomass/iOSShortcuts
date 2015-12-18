@@ -127,7 +127,7 @@ This workflow is somewhat experimental, and as such you shouldn't rely on it wor
 ### Description
 A Workflow allowing you to easily import Python scripts into [Pythonista](http://omz-software.com/pythonista/). You can either invoke it via the share sheet, or run the workflow from the app and manually enter a URL.
 
-![](readme_images/ImportToPythonista01.png)
+![](readme_images/importtopythonista01.png)
 
 ### Installation
 Install `Import to Pythonista.wflow` from this repository as normal.
