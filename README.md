@@ -52,7 +52,7 @@ You can install the workflow directly from [this link](https://workflow.is/workf
 
 ## Battery Level
 ### Description
-A simple workflow for your Today Widget which shows the current battery percentage. Useful for when you're not showing that information in the status bar.
+A simple workflow for your Today Widget which shows the current battery percentage. Clicking "OK" will take you to the battery settings page. Useful for when you're not showing that information in the status bar, or when you quickly want to enable low power mode.
 
 ![](readme_images/batterylevel01.png)
 
