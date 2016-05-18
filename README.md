@@ -160,3 +160,14 @@ A workflow to show you what your IP addresses are, as well as your carrier and W
 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
+
+## Phone Loved One
+### Description
+Quickly phone your loved one from the Workflow Today widget.
+
+If you're on WiFi, the workflow will attempt to call using FaceTime Audio, otherwise it will make a regular phone call.
+
+## Installation
+You can install the workflow by downloading the `.wflow` file directly from this repository.
+
+Once installed, you'll need to open the workflow and add your loved one as a contact via the instructions you'll see.
