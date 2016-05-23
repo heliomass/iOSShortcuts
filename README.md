@@ -72,13 +72,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-### Issues
-I have chosen not to add this workflow to the official gallery at this time, due to a severe bug with the current version of Workflow (v1.4.1).
-
-When the Metro status contains too much content, the Today widget will freeze, and the only workaround right now is to restart the phone.
-
-The Workflow development team have been informed of the issue, and given the severity of the bug we can but hope it will be addressed in their next release.
-
 ## Image to Desktop
 ### Description
 Sometimes you just want to send a file or an image from your iOS device and have it appear directly on your Mac's desktop, without having to load up the DropBox app and then locate it on your Mac after the upload.
