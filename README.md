@@ -171,3 +171,20 @@ If you're on WiFi, the workflow will attempt to call using FaceTime Audio, other
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
 Once installed, you'll need to open the workflow and add your loved one as a contact via the instructions you'll see.
+
+## Nearest Bixi Dock
+### Description
+Locates the nearest [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
+
+I created this because sometimes you know the area and just want to see at a glance which cross-street the nearest station is at, and whether you could dock your bike there.
+
+![](readme_images/bixi01.png)
+
+![](readme_images/bixi02.png)
+
+This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
+
+### Installation
+You can install the workflow by downloading the `.wflow` file directly from this repository.
+
+Maps default to Google Maps to display the route to the nearest dock, but you can change the app in the workflow itself towards the bottom.
