@@ -5,7 +5,7 @@ A collection of workflows for [Workflow App](https://workflow.is).
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
 
-This workflow provides a Today widget will calculate the tip for you, telling you how much to give the driver in $10 increments and how much to ask back for in change.
+This Shortcut provides a Today widget will calculate the tip for you, telling you how much to give the driver in $10 increments and how much to ask back for in change.
 
 ![](readme_images/mtlcabfarecalculator01.png)
 
@@ -14,7 +14,7 @@ This workflow provides a Today widget will calculate the tip for you, telling yo
 ![](readme_images/mtlcabfarecalculator03.png)
 
 ### Installation
-You can install the workflow directly from [this link](https://workflow.is/workflows/b40461d51f4a48a0a643289564f0dc86), or download it as a `.wflow` file from this repository instead.
+Click [here](MTL%20Cab%20Fare%20Calculator.shortcut) to install.
 
 ## Guess the Number
 ### Description
