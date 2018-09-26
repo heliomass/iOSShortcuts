@@ -31,17 +31,6 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ### Installation
 Click [here](Guess%20the%20Number.shortcut) to install.
 
-## Toggle Gamma
-### Description
-A simple workflow to toggle [GammaThingy](https://github.com/thomasfinch/GammaThingy) on and off. Add it to your homescreen or Today Widget, and the workflow will return you home after performing the toggle.
-
-![](readme_images/togglegamma01.png)
-
-![](readme_images/togglegamma02.png)
-
-### Installation
-You can install the workflow directly from [this link](https://workflow.is/workflows/dd0d7648bdcc403284211ca31de7e848), or download it as a `.wflow` file from this repository instead.
-
 ## Battery Level
 ### Description
 A simple workflow for your Today Widget which shows the current battery percentage. Clicking "OK" will take you to the battery settings page. Useful for when you're not showing that information in the status bar, or when you quickly want to enable low power mode.
