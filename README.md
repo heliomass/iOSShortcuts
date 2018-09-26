@@ -31,15 +31,6 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ### Installation
 Click [here](Guess%20the%20Number.shortcut) to install.
 
-## Battery Level
-### Description
-A simple workflow for your Today Widget which shows the current battery percentage. Clicking "OK" will take you to the battery settings page. Useful for when you're not showing that information in the status bar, or when you quickly want to enable low power mode.
-
-![](readme_images/batterylevel01.png)
-
-### Installation
-You can install the workflow directly from [this link](https://workflow.is/workflows/241944156d0f4c8baae93a639fdab06f), or download it as a `.wflow` file from this repository instead.
-
 ## MTL Metro Status
 ### Description
 MTL Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget, or on your homescreen as an alternative to the webapp.
