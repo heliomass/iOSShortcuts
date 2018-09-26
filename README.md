@@ -27,8 +27,9 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ![](readme_images/guessthenumber03.png)
 
 ![](readme_images/guessthenumber04.png)
+
 ### Installation
-You can install the workflow directly from [this link](https://workflow.is/workflows/20037c586a5e44cc97b94d6b9e560e22), or download it as a `.wflow` file from this repository instead.
+Click [here](Guess%20the%20Number.shortcut) to install.
 
 ## Stache
 ### Description
