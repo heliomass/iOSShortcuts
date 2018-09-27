@@ -44,27 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Post Later
-### Description
-Ever "needed" to update Facebook or Twitter when you're outside of mobile phone coverage, for example on the Metro? Worried you'll forget to post your groundbreaking update before your phone gets a signal?
-
-Fear not, this workflow will let you make your update, then keep running in the background until that all important signal returns, at which point it will post the update and alert you with a notification.
-
-![](readme_images/postlater01.png)
-
-![](readme_images/postlater02.png)
-
-![](readme_images/postlater03.png)
-
-### Installation
-You can install the workflow from this repository by [clicking here](https://github.com/heliomass/iOSWorkflows/blob/master/Post%20Later.wflow).
-
-### Known Issues
-This workflow is somewhat experimental, and as such you shouldn't rely on it working perfectly. Known problems include:
-
-* The notification can fail to be sent due to a bug in the Workflow app that can cause notifications to bottleneck the workflow. Usually the update has been posted by this point.
-* Sometimes there's enough signal for the workflow to try and make the update, but not enough for the update to succeed. In these cases, the workflow will fail silently and you will see an error to this effect when you next open the app.
-
 ## Import to Pythonista
 ### Description
 A Workflow allowing you to easily import Python scripts into [Pythonista](http://omz-software.com/pythonista/). You can either invoke it via the share sheet, or run the workflow from the app and manually enter a URL.
