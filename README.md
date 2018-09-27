@@ -44,15 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Next Appointment
-### Description
-A workflow to take you to your next appointment with [Transit App](http://transitapp.com).
-
-![](readme_images/nextappointment01.png)
-
-### Installation
-You can install the workflow by downloading the `.wflow` file directly from this repository.
-
 ## Tweet Splitter
 ### Description
 Do you get annoyed with Twitter's 140 character limit? This Workflow will integrate with [Pythonista](http://omz-software.com/pythonista/) to split your oversized tweet over two or more smaller tweets.
