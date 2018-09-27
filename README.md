@@ -44,17 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Import to Pythonista
-### Description
-A Workflow allowing you to easily import Python scripts into [Pythonista](http://omz-software.com/pythonista/). You can either invoke it via the share sheet, or run the workflow from the app and manually enter a URL.
-
-![](readme_images/importtopythonista01.png)
-
-### Installation
-Install `Import to Pythonista.wflow` from this repository as normal.
-
-As a one-off, you'll need to manually import the Python script. Open `ImportViaWorkflow.py` from this repository and copy / paste the script into Pythonista, ensuring that the name of the script matches `ImportViaWorkflow.py`.
-
 ## Next Appointment
 ### Description
 A workflow to take you to your next appointment with [Transit App](http://transitapp.com).
