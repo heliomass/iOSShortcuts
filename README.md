@@ -44,15 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Network Info
-### Description
-A workflow to show you what your IP addresses are, as well as your carrier and WiFi network name.
-
-![](readme_images/networkinfo01.png)
-
-### Installation
-You can install the workflow by downloading the `.wflow` file directly from this repository.
-
 ## Phone Loved One
 ### Description
 Quickly phone your loved one from the Workflow Today widget.
