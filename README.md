@@ -44,17 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Phone Loved One
-### Description
-Quickly phone your loved one from the Workflow Today widget.
-
-If you're on WiFi, the workflow will attempt to call using FaceTime Audio, otherwise it will make a regular phone call.
-
-### Installation
-You can install the workflow by downloading the `.wflow` file directly from this repository.
-
-Once installed, you'll need to open the workflow and add your loved one as a contact via the instructions you'll see.
-
 ## Nearest Bixi Dock
 ### Description
 Locates the nearest [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
