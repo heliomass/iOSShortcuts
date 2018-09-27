@@ -44,19 +44,6 @@ MTL Metro Status provides realtime updates on the status of the Montréal Metro 
 ### Installation
 You can install the workflow by downloading the `.wflow` file directly from this repository.
 
-## Image to Desktop
-### Description
-Sometimes you just want to send a file or an image from your iOS device and have it appear directly on your Mac's desktop, without having to load up the DropBox app and then locate it on your Mac after the upload.
-
-This workflow combines with [Hazel](https://www.noodlesoft.com/hazel.php) using [DropBox](https://www.dropbox.com) as a pipe between the two. You simply select the workflow from the share sheet, and your chosen file or image will appear on your desktop moments later.
-
-![](readme_images/imagetodesktop01.png)
-
-### Installation
-Add `Image to Desktop.wflow` from this repository to your Workflow app. The workflow when run will create a new directory at `Dropbox/Photos/Sent iOS`.
-
-Then, install the Hazel rules from `Sent iOS.hazelrules` and apply them to the aforementioned directory.
-
 ## Post Later
 ### Description
 Ever "needed" to update Facebook or Twitter when you're outside of mobile phone coverage, for example on the Metro? Worried you'll forget to post your groundbreaking update before your phone gets a signal?
