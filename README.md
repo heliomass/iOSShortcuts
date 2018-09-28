@@ -16,21 +16,6 @@ This Shortcut provides a Today widget will calculate the tip for you, telling yo
 ### Installation
 Click [here](MTL%20Cab%20Fare%20Calculator.shortcut) to install.
 
-## Guess the Number
-### Description
-A simple game for your Today widget. Try and guess the secret number in under 10 tries!
-
-![](readme_images/guessthenumber01.png)
-
-![](readme_images/guessthenumber02.png)
-
-![](readme_images/guessthenumber03.png)
-
-![](readme_images/guessthenumber04.png)
-
-### Installation
-Click [here](Guess%20the%20Number.shortcut) to install.
-
 ## Metro Status
 ### Description
 Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget.
@@ -58,3 +43,19 @@ This widget is powered by [Bixi Time](http://bixitime.com). You can get the sour
 
 ### Installation
 Click [here](Bixi.shortcut) to install.
+
+## Guess the Number
+### Description
+A simple game for your Today widget. Try and guess the secret number in under 10 tries!
+
+![](readme_images/guessthenumber01.png)
+
+![](readme_images/guessthenumber02.png)
+
+![](readme_images/guessthenumber03.png)
+
+![](readme_images/guessthenumber04.png)
+
+### Installation
+Click [here](Guess%20the%20Number.shortcut) to install.
+
