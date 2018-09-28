@@ -1,20 +1,20 @@
 # iOS Workflows
 A collection of workflows for [Workflow App](https://workflow.is).
 
-## MTL Cab Fare Calculator
+## Cab Fare Calculator
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
 
 This Shortcut provides a Today widget will calculate the tip for you, telling you how much to give the driver in $10 increments and how much to ask back for in change.
 
-![](readme_images/mtlcabfarecalculator01.png)
+![](readme_images/cabfarecalculator01.png)
 
-![](readme_images/mtlcabfarecalculator02.png)
+![](readme_images/cabfarecalculator02.png)
 
-![](readme_images/mtlcabfarecalculator03.png)
+![](readme_images/cabfarecalculator03.png)
 
 ### Installation
-Click [here](MTL%20Cab%20Fare%20Calculator.shortcut) to install.
+Click [here](Cab%20Fare%20Calculator.shortcut) to install.
 
 ## Metro Status
 ### Description
