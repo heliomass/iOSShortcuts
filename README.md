@@ -42,7 +42,7 @@ Metro Status provides realtime updates on the status of the Montréal Metro dire
 ### Installation
 Click [here](Metro%20Status.shortcut) to install.
 
-## Nearest Bixi Dock
+## Bixi
 ### Description
 Locates the nearest [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
 
@@ -52,9 +52,9 @@ I created this because sometimes you know the area and just want to see at a gla
 
 ![](readme_images/bixi02.png)
 
+![](readme_images/bixi02.png)
+
 This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
 
 ### Installation
-You can install the workflow by downloading the `.wflow` file directly from this repository.
-
-Maps default to Google Maps to display the route to the nearest dock, but you can change the app in the workflow itself towards the bottom.
+Click [here](Bixi.shortcut) to install.
