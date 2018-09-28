@@ -39,7 +39,7 @@ I created this because sometimes you know the area and just want to see at a gla
 
 ![](readme_images/bixi02.png)
 
-![](readme_images/bixi02.png)
+![](readme_images/bixi03.png)
 
 This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
 
