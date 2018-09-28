@@ -7,7 +7,7 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
 
-This Shortcut provides a Today widget will calculate the tip for you, telling you how much to give the driver in $10 increments and how much to ask back for in change.
+This Shortcut provides a Today widget to calculate the tip for you, telling you how much to give the driver in $10 increments and how much to ask back for in change.
 
 ![](readme_images/cabfarecalculator01.png)
 
@@ -20,7 +20,7 @@ Click [here](Cab%20Fare%20Calculator.shortcut) to install.
 
 ## Metro Status
 ### Description
-Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget.
+Metro Status provides realtime updates on the status of the Montreal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) in your Today widget.
 
 ![](readme_images/mtlmetrostatus01.png)
 
@@ -31,7 +31,7 @@ Click [here](Metro%20Status.shortcut) to install.
 
 ## Bixi
 ### Description
-Locates the nearest [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
+Locates the nearest Montreal [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
 
 I created this because sometimes you know the area and just want to see at a glance which cross-street the nearest station is at, and whether you could dock your bike there.
 
