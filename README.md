@@ -1,6 +1,8 @@
 # iOS Shortcuts
 A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/developer/apple/id642218247?mt=8).
 
+_(To view the original collection of Workflows for iOS 11 and earlier using Workflow App, [click here](https://github.com/heliomass/iOSWorkflows/tree/v1).)_
+
 ## Cab Fare Calculator
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
