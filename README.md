@@ -31,18 +31,16 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ### Installation
 Click [here](Guess%20the%20Number.shortcut) to install.
 
-## MTL Metro Status
+## Metro Status
 ### Description
-MTL Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget, or on your homescreen as an alternative to the webapp.
+Metro Status provides realtime updates on the status of the Montréal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) to your Today widget.
 
 ![](readme_images/mtlmetrostatus01.png)
 
 ![](readme_images/mtlmetrostatus02.png)
 
-![](readme_images/mtlmetrostatus03.png)
-
 ### Installation
-You can install the workflow by downloading the `.wflow` file directly from this repository.
+Click [here](Metro%20Status.shortcut) to install.
 
 ## Nearest Bixi Dock
 ### Description
