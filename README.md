@@ -1,5 +1,5 @@
-# iOS Workflows
-A collection of workflows for [Workflow App](https://workflow.is).
+# iOS Shortcuts
+A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/developer/apple/id642218247?mt=8).
 
 ## Cab Fare Calculator
 ### Description
