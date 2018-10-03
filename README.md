@@ -26,6 +26,8 @@ Metro Status provides realtime updates on the status of the Montreal Metro direc
 
 ![](readme_images/mtlmetrostatus02.png)
 
+![](readme_images/mtlmetrostatus03.png)
+
 ### Installation
 Click [here](Metro%20Status.shortcut) to install.
 
