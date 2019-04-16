@@ -75,7 +75,20 @@ Provides more granular control over Do Not Disturb (DND) from the widget. Wherea
 ### Installation
 Click [here](Do Not Disturb.shortcut) to install.
 
+## ![](readme_images/brewtea-icon-small.png) Brew Tea
+
+### Description
+
+Sets a tea timer. Very important. 🇬🇧
+
+On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
+
+### Installation
+
+Click [here](Brew Tea.shortcut) to install.
+
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
+
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
 
