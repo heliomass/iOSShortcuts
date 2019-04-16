@@ -57,6 +57,15 @@ Installation and setup requires a few separate steps to complete, but once done 
     Anyone else installing this Shortcut will need to go through the same questions.
     
     This Shortcut is best run from the widget and does not require the phone to be unlocked.
+    
+## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
+
+### Description
+Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
+
+### Installation
+
+Click [here](Down for Everyone.shortcut) to install.
 
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 ### Description
