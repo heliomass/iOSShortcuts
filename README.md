@@ -67,6 +67,14 @@ Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to t
 
 Click [here](Down for Everyone.shortcut) to install.
 
+## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
+
+### Description
+Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
+
+### Installation
+Click [here](Do Not Disturb.shortcut) to install.
+
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
