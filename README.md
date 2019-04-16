@@ -87,6 +87,14 @@ On first run, it'll ask you how many minutes you prefer your tea to be brewed, a
 
 Click [here](Brew Tea.shortcut) to install.
 
+## ![](readme_images/officebucket-icon-small.png) Office Bucket
+
+### Description
+This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
+
+### Installation
+Click [here](Office Bucket.shortcut) to install.
+
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 
 ### Description
