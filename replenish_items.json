@@ -1,0 +1,34 @@
+{
+  "version": 1,
+	"locations": {
+		"My Grocery Store": "4516 Dundas St, London, ON, N6B 3L5",
+		"My Pharmacy": "3243 Ottawa St, Loneon, ON, N6B 3L2"
+	},
+	"items": {
+		"Milk": {
+			"item": "Milk",
+			"location": "My Grocery Store",
+			"emoji": "🐮"
+		},
+		"Recycling Bags": {
+			"item": "Recycling Bags",
+			"location": "My Pharmacy",
+			"emoji": "♻️"
+		},
+		"Coffee": {
+			"item": "Coffee",
+			"location": "My Grocery Store",
+			"emoji": "☕️"
+		},
+		"Sparkling Water": {
+			"item": "Sparkling Water",
+			"location": "My Grocery Store",
+			"emoji": "💧"
+		},
+		"Tissues": {
+			"item": "Tissues",
+			"location": "My Pharmacy",
+			"emoji": "🤧"
+		}
+	}
+}

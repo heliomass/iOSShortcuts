@@ -3,6 +3,61 @@ A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/de
 
 _(To view the original collection of Workflows for iOS 11 and earlier using Workflow App, [click here](https://github.com/heliomass/iOSWorkflows/tree/v1).)_
 
+## ![](readme_images/replenish-icon-small.png) Replenish
+### Description
+This Shortcut helps you and your family to manage replacing essential items around the house. For example, if you run out of coffee, run the shortcut, simply select "Coffee" and let the rest of the magic happen:
+
+* The item will be added to a shared Reminders list.
+* You'll get an alert when you're nearby the designated shop for that item.
+* A text will be sent to chosen people to let them know the item has run out.
+
+![](readme_images/replenishitem01.png)
+
+### Installation
+Installation and setup requires a few separate steps to complete, but once done you won't need to make any changes except to add or remove items.
+    
+1. **Configure the list of Items and Locations**
+
+    The Shortcut consults a JSON file of these items. Named `replenish_items.json`, it lives in the Shortcuts folder of your iCloud drive.
+    
+    To stare you off, there's an example file [here](replenish_items.json), but obviously you'll want to adjust it to your own needs. The easiest way to do this is using a text editor, but there are also iOS specific apps for editing JSON such as [Jayson](https://itunes.apple.com/ca/app/jayson/id1447750768?mt=8) if you don't have a Mac or Windows machine to use.
+    
+    There are two main sections to the JSON file:
+    
+    * **Locations**
+    
+        This section lists locations you want to be reminded to buy something at. For example, `"My Grocery Store": "4516  Dundas St, London, ON, N6B 3L5"`. What's key is that the address would be a valid one in an Apple Maps search.
+    
+    * **Items**
+
+        Here's where you keep your list of things to replenish, complete with a signifying emoji! Each item is linked back to one of the locations you listed above. For example:
+        
+            "Coffee": {
+                "item": "Coffee",
+                "location": "My Grocery Store",
+                "emoji": "☕️"
+            }
+
+    It's as simple as that!
+    
+2. **Sharing the Item List**
+
+    If you're sharing between multiple household members, place `replenish_items.json` in your iCloud "Shortcuts" folder and share this file with anyone you need to. Ensure others have the file in the same location as you do. This way, when you edit the contents, the changes will be shared with everyone.
+    
+3. **Download and Configure the Shortcut**
+
+    Click [here](Replenish.shortcut) to install.
+    
+    When you run it for the first time, you'll be asked for the following information:
+    
+    * The location of `replenish_items.json`
+    * An optional list of contacts to send a text to each time an item needs to be replenished (don't include yourself in the list)
+    * The Reminders list to use
+
+    Anyone else installing this Shortcut will need to go through the same questions.
+    
+    This Shortcut is best run from the widget and does not require the phone to be unlocked.
+
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 ### Description
 I’m bad at working out quickly how much to tip a cab driver in my head, and just as bad at working how much to ask for in change if I give them the fare in dollar notes.
