@@ -65,7 +65,7 @@ Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to t
 
 ### Installation
 
-Click [here](Down for Everyone.shortcut) to install.
+Click [here](Down%20for%20Everyone.shortcut) to install.
 
 ## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
 
@@ -73,7 +73,7 @@ Click [here](Down for Everyone.shortcut) to install.
 Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
 
 ### Installation
-Click [here](Do Not Disturb.shortcut) to install.
+Click [here](Do%20Not%20Disturb.shortcut) to install.
 
 ## ![](readme_images/brewtea-icon-small.png) Brew Tea
 
@@ -85,7 +85,7 @@ On first run, it'll ask you how many minutes you prefer your tea to be brewed, a
 
 ### Installation
 
-Click [here](Brew Tea.shortcut) to install.
+Click [here](Brew%20Tea.shortcut) to install.
 
 ## ![](readme_images/officebucket-icon-small.png) Office Bucket
 
@@ -93,7 +93,7 @@ Click [here](Brew Tea.shortcut) to install.
 This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
 
 ### Installation
-Click [here](Office Bucket.shortcut) to install.
+Click [here](Office%20Bucket.shortcut) to install.
 
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 
