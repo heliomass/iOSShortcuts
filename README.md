@@ -3,6 +3,18 @@ A collection of shortcuts for the [Shortcuts app](https://itunes.apple.com/us/de
 
 _(To view the original collection of Workflows for iOS 11 and earlier using Workflow App, [click here](https://github.com/heliomass/iOSWorkflows/tree/v1).)_
 
+## Table of Contents
+
+* [Replenish](#-replenish)
+* [Cab Fare Calculator](#-cab-fare-calculator)
+* [Office Bucket](#-office-bucket)
+* [Do Not Disturb](#-do-not-disturb)
+* [Down for Everyone?](#-down-for-everyone)
+* [Brew Tea](#-brew-tea)
+* [Metro Status](#-metro-status)
+* [Bixi](#-bixi)
+* [Guess the Number](#-guess-the-number)
+
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
 This Shortcut helps you and your family to manage replacing essential items around the house. For example, if you run out of coffee, run the shortcut, simply select "Coffee" and let the rest of the magic happen:
