@@ -57,43 +57,6 @@ Installation and setup requires a few separate steps to complete, but once done 
     Anyone else installing this Shortcut will need to go through the same questions.
     
     This Shortcut is best run from the widget and does not require the phone to be unlocked.
-    
-## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
-
-### Description
-Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
-
-### Installation
-
-Click [here](Down%20for%20Everyone.shortcut) to install.
-
-## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
-
-### Description
-Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
-
-### Installation
-Click [here](Do%20Not%20Disturb.shortcut) to install.
-
-## ![](readme_images/brewtea-icon-small.png) Brew Tea
-
-### Description
-
-Sets a tea timer. Very important. 🇬🇧
-
-On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
-
-### Installation
-
-Click [here](Brew%20Tea.shortcut) to install.
-
-## ![](readme_images/officebucket-icon-small.png) Office Bucket
-
-### Description
-This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
-
-### Installation
-Click [here](Office%20Bucket.shortcut) to install.
 
 ## ![](readme_images/cabfarecalculator-icon-small.png) Cab Fare Calculator
 
@@ -108,6 +71,39 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 
 ### Installation
 Click [here](Cab%20Fare%20Calculator.shortcut) to install.
+
+## ![](readme_images/officebucket-icon-small.png) Office Bucket
+
+### Description
+This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
+
+### Installation
+Click [here](Office%20Bucket.shortcut) to install.
+
+## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
+
+### Description
+Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
+
+### Installation
+Click [here](Do%20Not%20Disturb.shortcut) to install.
+
+## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
+### Description
+Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
+
+### Installation
+Click [here](Down%20for%20Everyone.shortcut) to install.
+
+## ![](readme_images/brewtea-icon-small.png) Brew Tea
+
+### Description
+Sets a tea timer. Very important. 🇬🇧
+
+On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
+
+### Installation
+Click [here](Brew%20Tea.shortcut) to install.
 
 ## ![](readme_images/mtlmetrostatus-icon-small.png) Metro Status
 ### Description
