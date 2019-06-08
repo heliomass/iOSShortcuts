@@ -59,7 +59,7 @@ Installation and setup requires a few separate steps to complete, but once done 
     
 3. **Download and Configure the Shortcut**
 
-    Click [here](Replenish.shortcut) to install.
+    **_Click [here](Replenish.shortcut) to install_**.
     
     When you run it for the first time, you'll be asked for the following information:
     
@@ -83,7 +83,7 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 ![](readme_images/cabfarecalculator02.png)
 
 ### Installation
-Click [here](Cab%20Fare%20Calculator.shortcut) to install.
+**_Click [here](Cab%20Fare%20Calculator.shortcut) to install._**
 
 ## ![](readme_images/officebucket-icon-small.png) Office Bucket
 
@@ -91,7 +91,7 @@ Click [here](Cab%20Fare%20Calculator.shortcut) to install.
 This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
 
 ### Installation
-Click [here](Office%20Bucket.shortcut) to install.
+**_Click [here](Office%20Bucket.shortcut) to install._**
 
 ## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
 
@@ -99,14 +99,14 @@ Click [here](Office%20Bucket.shortcut) to install.
 Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
 
 ### Installation
-Click [here](Do%20Not%20Disturb.shortcut) to install.
+**_Click [here](Do%20Not%20Disturb.shortcut) to install._**
 
 ## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
 ### Description
 Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
 
 ### Installation
-Click [here](Down%20for%20Everyone.shortcut) to install.
+**_Click [here](Down%20for%20Everyone.shortcut) to install._**
 
 ## ![](readme_images/brewtea-icon-small.png) Brew Tea
 
@@ -116,7 +116,7 @@ Sets a tea timer. Very important. 🇬🇧
 On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
 
 ### Installation
-Click [here](Brew%20Tea.shortcut) to install.
+**_Click [here](Brew%20Tea.shortcut) to install._**
 
 ## ![](readme_images/mtlmetrostatus-icon-small.png) Metro Status
 ### Description
@@ -127,7 +127,7 @@ Metro Status provides realtime updates on the status of the Montreal Metro direc
 ![](readme_images/mtlmetrostatus02.png)
 
 ### Installation
-Click [here](Metro%20Status.shortcut) to install.
+**_Click [here](Metro%20Status.shortcut) to install._**
 
 ## ![](readme_images/bixi-icon-small.png) Bixi
 ### Description
@@ -142,7 +142,7 @@ I created this because sometimes you know the area and just want to see at a gla
 This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
 
 ### Installation
-Click [here](Bixi.shortcut) to install.
+**_Click [here](Bixi.shortcut) to install._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
@@ -155,7 +155,7 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ![](readme_images/guessthenumber03.png)
 
 ### Installation
-Click [here](Guess%20the%20Number.shortcut) to install.
+**_Click [here](Guess%20the%20Number.shortcut) to install._**
 
 ## ![](readme_images/functions.png) Functions
 Functions are Shortcuts which get called from other Shortcuts. They provide reusable functionality for common tasks. Some of the main Shortcuts here may have dependencies on these.
@@ -172,4 +172,4 @@ To use, create a dictionary with the following two keys and pass it to the Input
 
 The user will then be prompted to fill out the missing information in the case the Shortcut Input was empty.
 
-Click [here](Filter%20Workflows%20and%20Run.shortcut) to install.
+**_Click [here](Filter%20Workflows%20and%20Run.shortcut) to install._**
