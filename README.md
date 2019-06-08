@@ -13,6 +13,7 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Brew Tea](#-brew-tea)
 * [Metro Status](#-metro-status)
 * [Bixi](#-bixi)
+* [Search](#-search)
 * [Guess the Number](#-guess-the-number)
 * [Functions](#-functions)
 
@@ -143,6 +144,15 @@ This widget is powered by [Bixi Time](http://bixitime.com). You can get the sour
 
 ### Installation
 **_Click [here](Bixi.shortcut) to install._**
+
+##![](readme_images/search-icon-small.png) Search
+### Description
+Simply searches Google. Run the shortcut directly to be prompted. Use the shortcut in the Share Sheet with highlighted text to search from anywhere.
+
+### Installation & Dependencies
+**_Click [here](Search.shortcut) to install._**
+
+⚠️ **_You will need the [Input Filter](#-input-filter) function installed._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
