@@ -157,7 +157,7 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ### Installation
 **_Click [here](Guess%20the%20Number.shortcut) to install._**
 
-## ![](readme_images/functions.png) Functions
+## ![](readme_images/functions-icon-small.png) Functions
 Functions are Shortcuts which get called from other Shortcuts. They provide reusable functionality for common tasks. Some of the main Shortcuts here may have dependencies on these.
 
 ### Input Filter
