@@ -145,7 +145,7 @@ This widget is powered by [Bixi Time](http://bixitime.com). You can get the sour
 ### Installation
 **_Click [here](Bixi.shortcut) to install._**
 
-##![](readme_images/search-icon-small.png) Search
+## ![](readme_images/search-icon-small.png) Search
 ### Description
 Simply searches Google. Run the shortcut directly to be prompted. Use the shortcut in the Share Sheet with highlighted text to search from anywhere.
 
