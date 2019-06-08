@@ -152,7 +152,7 @@ Simply searches Google. Run the shortcut directly to be prompted. Use the shortc
 ### Installation & Dependencies
 **_Click [here](Search.shortcut) to install._**
 
-⚠️ **_You will need the [Input Filter](#-input-filter) function installed._**
+⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
