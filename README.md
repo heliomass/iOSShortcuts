@@ -14,6 +14,7 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Metro Status](#-metro-status)
 * [Bixi](#-bixi)
 * [Guess the Number](#-guess-the-number)
+* [Functions](#-functions)
 
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
@@ -156,3 +157,19 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ### Installation
 Click [here](Guess%20the%20Number.shortcut) to install.
 
+## ![](readme_images/functions.png) Functions
+Functions are Shortcuts which get called from other Shortcuts. They provide reusable functionality for common tasks. Some of the main Shortcuts here may have dependencies on these.
+
+### Input Filter
+Prompts the user for input if your shortcut's input is empty.
+
+You'd use this if you have a Shortcut which can be used on its own, but also from the Share Sheet. In the former case, you'd want to prompt the user for input. In the latter case, the input would be retrieved via the Share Sheet.
+
+To use, create a dictionary with the following two keys and pass it to the Input Filter workflow:
+
+* `Data` - The Shortcut Input
+* `Prompt` - A prompt for the user if Shortcut Input was empty
+
+The user will then be prompted to fill out the missing information in the case the Shortcut Input was empty.
+
+Click [here](Filter%20Workflows%20and%20Run.shortcut) to install.
