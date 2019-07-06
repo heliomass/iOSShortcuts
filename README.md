@@ -16,8 +16,8 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Search](#-search)
 * [Guess the Number](#-guess-the-number)
 * [Functions](#-functions)
-    * [Input Filter](#-input-filter)
-    * [Filter Shortcuts and Run](#-filter-shortcuts-and-run)
+    * [Input Filter](#input-filter)
+    * [Filter Shortcuts and Run](#filter-shortcuts-and-run)
 
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
