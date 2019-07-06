@@ -16,6 +16,8 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Search](#-search)
 * [Guess the Number](#-guess-the-number)
 * [Functions](#-functions)
+    * [Input Filter](#-input-filter)
+    * [Filter Shortcuts and Run](#-filter-shortcuts-and-run)
 
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
@@ -182,4 +184,11 @@ To use, create a dictionary with the following two keys and pass it to the Input
 
 The user will then be prompted to fill out the missing information in the case the Shortcut Input was empty.
 
-**_Click [here](functions/Filter%20Workflows%20and%20Run.shortcut) to install._**
+**_Click [here](functions/Input%20Filter.shortcut) to install._**
+
+### Filter Shortcuts and Run
+Provided a list of Shortcut names (as strings), the user will be prompted to select a workflow to run. You can use this to create drill-downs and sub-menus to better organise your shortcuts.
+
+**_Click [here](Filter%20Shortcuts%20and%20Run.shortcut) to install._**
+
+⚠️ _If you have many Shortcuts installed, running this shortcut will cause the Shortcuts app's Today widget to crash. This is a limitation of iOS which restricts the amount of memory a widget has available. I hope iOS 13 will fix this, but in the interim if you're affected, you may want to utilise the "Continue Shortcut in App" action just before calling this shortcut._
