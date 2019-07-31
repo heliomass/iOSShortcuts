@@ -15,6 +15,7 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Bixi](#-bixi)
 * [Search](#-search)
 * [Emoji Lookup](#-emoji-lookup)
+* [Mobile Kanban](#-mobile-kanban)
 * [Guess the Number](#-guess-the-number)
 * [Functions](#-functions)
     * [Input Filter](#input-filter)
@@ -167,6 +168,15 @@ I created this as I find the built in iOS emoji keyboard inefficient, particular
 **_Click [here](Emoji%20Lookup.shortcut) to install._**
 
 ⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
+
+## ![](readme_images/mobilekanban-icon-small.png) Mobile Kanban
+### Description
+If you have a physical Kanban at home or at work, you might want to refer to it on the move. This Shortcut lets you quickly snap a photo of it, for example when leaving the office. You can then quickly recall the photo on the move.
+
+The Shortcut provides an option to either take "View" or "Record" the Kanban. Choose "Record" to take a fresh photo which will overwrite the existing one.
+
+### Installation
+**_Click [here](shortcuts/Mobile%20Kanban.shortcut) to install._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
