@@ -16,10 +16,14 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Search](#-search)
 * [Emoji Lookup](#-emoji-lookup)
 * [Mobile Kanban](#-mobile-kanban)
+* [Budget](#-budget)
+* [Learn New Word](#-learn-new-word)
+* [Review Word](#-review-word)
 * [Guess the Number](#-guess-the-number)
 * [Functions](#-functions)
     * [Input Filter](#input-filter)
     * [Filter Shortcuts and Run](#filter-shortcuts-and-run)
+    * [First Day of Week](#first-day-of-week)
 
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
@@ -178,6 +182,36 @@ The Shortcut provides an option to either take "View" or "Record" the Kanban. Ch
 ### Installation
 **_Click [here](shortcuts/Mobile%20Kanban.shortcut) to install._**
 
+## ![](readme_images/budget.png) Budget
+### Description
+I give myself a weekly budget to limit how much I spend on snacks and coffee during the working week. This Shortcut helps you track how your budget is doing during the week. Every time you make a purchase, simply run the shortcut from your widget and enter the amount you spent. A notification will let you know how much budget you have left for the week, and how close you are to going in the red.
+
+### Installation
+On installation, you'll be prompted to enter your budget for the week.
+
+**_Click [here](shortcuts/Budget.shortcut) to install._**
+
+⚠️ **_You will need the [First Day of Week](#first-day-of-week) function installed._**
+
+## ![](readme_images/new-word.png) Learn New Word
+### Description
+Every come across a new word you had to look up, and wanted to retain its meaning? This Shortcut will help. There are two ways to run it:
+
+* Launch the Shortcut directly and enter the word directly. You'll be show its definition, and the prompted as to whether you want to store the word or not.
+* Highlight the word and call this Shortcut from the sharesheet.
+
+Use this Shortcut with "Review Word".
+
+### Installation
+**_Click [here](shortcuts/Learn%20New%20Word.shortcut) to install._**
+
+## ![](readme_images/new-word.png) Review Word
+### Description
+The companion Shortcut to "Learn New Word". When you run it, a word will be picked at random and you'll be prompted to recall its definition. Click "OK" to see the word's definition and find out if you were right!
+
+### Installation
+**_Click [here](shortcuts/Review%20Word.shortcut) to install._**
+
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
 A simple game for your Today widget. Try and guess the secret number in under 10 tries!
@@ -214,3 +248,10 @@ Provided a list of Shortcut names (as strings), the user will be prompted to sel
 **_Click [here](Filter%20Shortcuts%20and%20Run.shortcut) to install._**
 
 ⚠️ _If you have many Shortcuts installed, running this shortcut will cause the Shortcuts app's Today widget to crash. This is a limitation of iOS which restricts the amount of memory a widget has available. I hope iOS 13 will fix this, but in the interim if you're affected, you may want to utilise the "Continue Shortcut in App" action just before calling this shortcut._
+
+### First Day of Week
+Call this Shortcut to get the date of the first day of the current week. For example, if today is Wednesday 3rd January, the Shortcut would return 1st January for the Monday.
+
+On installation, you'll be prompted to choose Sunday or Monday as your first day of the week.
+
+**_Click [here](shortcuts/First%20Day%20of%20Week.shortcut) to install._**
