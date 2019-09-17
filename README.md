@@ -24,6 +24,7 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
     * [Input Filter](#input-filter)
     * [Filter Shortcuts and Run](#filter-shortcuts-and-run)
     * [First Day of Week](#first-day-of-week)
+    * [Fire IFTTT Webhook](#fire-ifttt-webhook)
 
 ## ![](readme_images/replenish-icon-small.png) Replenish
 ### Description
@@ -245,7 +246,7 @@ The user will then be prompted to fill out the missing information in the case t
 ### Filter Shortcuts and Run
 Provided a list of Shortcut names (as strings), the user will be prompted to select a workflow to run. You can use this to create drill-downs and sub-menus to better organise your shortcuts.
 
-**_Click [here](Filter%20Shortcuts%20and%20Run.shortcut) to install._**
+**_Click [here](functions/Filter%20Shortcuts%20and%20Run.shortcut) to install._**
 
 ⚠️ _If you have many Shortcuts installed, running this shortcut will cause the Shortcuts app's Today widget to crash. This is a limitation of iOS which restricts the amount of memory a widget has available. I hope iOS 13 will fix this, but in the interim if you're affected, you may want to utilise the "Continue Shortcut in App" action just before calling this shortcut._
 
@@ -254,4 +255,24 @@ Call this Shortcut to get the date of the first day of the current week. For exa
 
 On installation, you'll be prompted to choose Sunday or Monday as your first day of the week.
 
-**_Click [here](shortcuts/First%20Day%20of%20Week.shortcut) to install._**
+**_Click [here](functions/First%20Day%20of%20Week.shortcut) to install._**
+
+### Fire IFTTT Webhook
+Back in the days of Workflow, there was a built-in action to trigger an [IFTTT](https://ifttt.com) "applet", but this was removed when Apple bought Workflow and renamed it Shortcuts.
+
+My personal approach to preserving IFTTT interactions was to use IFTTT's [webhook](https://ifttt.com/maker_webhooks) feature. And in order to make things more streamlined, I created a dedicated shortcut to easily call webhooks.
+
+When you install the shortcut, you'll be prompted for your personal API key. If you don't have one already, you'll need to generate one on the IFTTT website.
+
+When calling the shortcut, provide a dictionary with the following items:
+
+* `WebhookName` - The name of your webhook on IFTTT
+* `Value1` - The first item to pass into your webook (optional)
+* `Value2` - The second item to pass into your webook (optional)
+* `Value3` - The third item to pass into your webook (optional)
+
+Note that _all four_ items in the dictionary need to be present, even if the "Value" items are empty. You then call the _Fire IFTTT Webook_ with "Run Shortcut" immediately after defining the above dictionary.
+
+Anything returned by IFTTT can be captured after calling the shortcut.
+
+**_Click [here](functions/Fire%20IFTTT%20Webhook.shortcut) to install._**
