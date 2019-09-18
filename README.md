@@ -176,7 +176,7 @@ I created this as I find the built in iOS emoji keyboard inefficient, particular
 
 ## ![](readme_images/mobilekanban-icon-small.png) Mobile Kanban
 ### Description
-If you have a physical Kanban at home or at work, you might want to refer to it on the move. This Shortcut lets you quickly snap a photo of it, for example when leaving the office. You can then quickly recall the photo on the move.
+If you have a physical [Kanban](https://en.wikipedia.org/wiki/Kanban) at home or at work, you might want to refer to it on the move. This Shortcut lets you quickly snap a photo of it, for example when leaving the office. You can then quickly recall the photo on the move.
 
 The Shortcut provides an option to either take "View" or "Record" the Kanban. Choose "Record" to take a fresh photo which will overwrite the existing one.
 
