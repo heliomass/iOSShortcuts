@@ -69,7 +69,7 @@ Installation and setup requires a few separate steps to complete, but once done 
     
 3. **Download and Configure the Shortcut**
 
-    **_Click [here](shortcuts/Replenish.shortcut) to install_**.
+    **_Click [here](https://www.icloud.com/shortcuts/cee9e7442272427ca01ea46de4e87499) to install_**.
     
     When you run it for the first time, you'll be asked for the following information:
     
