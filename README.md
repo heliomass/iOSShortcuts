@@ -93,7 +93,7 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 ![](readme_images/cabfarecalculator02.png)
 
 ### Installation
-**_Click [here](shortcuts/Cab%20Fare%20Calculator.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1b4cc3bfd96b42cbb5a538c286b077da) to install._**
 
 ## ![](readme_images/officebucket-icon-small.png) Office Bucket
 
