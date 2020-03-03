@@ -101,7 +101,7 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
 
 ### Installation
-**_Click [here](shortcuts/Office%20Bucket.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/dda350109be647529bcbc23628c32613) to install._**
 
 ## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
 
