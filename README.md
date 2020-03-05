@@ -109,7 +109,7 @@ This is for when you remember something you need to do at the office, but you're
 Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
 
 ### Installation
-**_Click [here](shortcuts/Do%20Not%20Disturb.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/5ea2bf50a6524d06bc622788b49d1ed1) to install._**
 
 ## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
 ### Description
