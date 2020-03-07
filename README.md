@@ -115,7 +115,7 @@ Provides more granular control over Do Not Disturb (DND) from the widget. Wherea
 Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
 
 ### Installation
-**_Click [here](shortcuts/Down%20for%20Everyone.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/3d7ed0c154c54b02beeab3a32215777f) to install._**
 
 ## ![](readme_images/brewtea-icon-small.png) Brew Tea
 
