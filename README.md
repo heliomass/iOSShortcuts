@@ -11,7 +11,6 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Do Not Disturb](#-do-not-disturb)
 * [Down for Everyone?](#-down-for-everyone)
 * [Brew Tea](#-brew-tea)
-* [Metro Status](#-metro-status)
 * [Bixi](#-bixi)
 * [Search](#-search)
 * [Emoji Lookup](#-emoji-lookup)
@@ -127,17 +126,6 @@ On first run, it'll ask you how many minutes you prefer your tea to be brewed, a
 
 ### Installation
 **_Click [here](shortcuts/Brew%20Tea.shortcut) to install._**
-
-## ![](readme_images/mtlmetrostatus-icon-small.png) Metro Status
-### Description
-Metro Status provides realtime updates on the status of the Montreal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) in your Today widget.
-
-![](readme_images/mtlmetrostatus01.png)
-
-![](readme_images/mtlmetrostatus02.png)
-
-### Installation
-**_Click [here](shortcuts/Metro%20Status.shortcut) to install._**
 
 ## ![](readme_images/bixi-icon-small.png) Bixi
 ### Description
