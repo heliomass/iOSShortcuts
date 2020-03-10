@@ -169,7 +169,7 @@ If you have a physical [Kanban](https://en.wikipedia.org/wiki/Kanban) at home or
 The Shortcut provides an option to either take "View" or "Record" the Kanban. Choose "Record" to take a fresh photo which will overwrite the existing one.
 
 ### Installation
-**_Click [here](shortcuts/Mobile%20Kanban.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1df3ace417c943d0b83a965d51a329e6) to install._**
 
 ## ![](readme_images/budget.png) Budget
 ### Description
