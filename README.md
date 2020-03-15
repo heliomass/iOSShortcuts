@@ -11,7 +11,6 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Do Not Disturb](#-do-not-disturb)
 * [Down for Everyone?](#-down-for-everyone)
 * [Brew Tea](#-brew-tea)
-* [Bixi](#-bixi)
 * [Search](#-search)
 * [Emoji Lookup](#-emoji-lookup)
 * [Mobile Kanban](#-mobile-kanban)
@@ -126,21 +125,6 @@ On first run, it'll ask you how many minutes you prefer your tea to be brewed, a
 
 ### Installation
 **_Click [here](https://www.icloud.com/shortcuts/1a66760e59034d3bb18970ea4225da50) to install._**
-
-## ![](readme_images/bixi-icon-small.png) Bixi
-### Description
-Locates the nearest Montreal [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
-
-I created this because sometimes you know the area and just want to see at a glance which cross-street the nearest station is at, and whether you could dock your bike there.
-
-![](readme_images/bixi01.png)
-
-![](readme_images/bixi02.png)
-
-This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
-
-### Installation
-**_Click [here](shortcuts/Bixi.shortcut) to install._**
 
 ## ![](readme_images/search-icon-small.png) Search
 ### Description
