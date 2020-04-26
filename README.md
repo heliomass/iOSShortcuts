@@ -162,7 +162,7 @@ I give myself a weekly budget to limit how much I spend on snacks and coffee dur
 ### Installation
 On installation, you'll be prompted to enter your budget for the week.
 
-**_Click [here](shortcuts/Budget.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/74264e440ce142eda500c611b7e5e120) to install._**
 
 ⚠️ **_You will need the [First Day of Week](#first-day-of-week) function installed._**
 
