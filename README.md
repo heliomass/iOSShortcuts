@@ -176,14 +176,14 @@ Every come across a new word you had to look up, and wanted to retain its meanin
 Use this Shortcut with "Review Word".
 
 ### Installation
-**_Click [here](shortcuts/Learn%20New%20Word.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/c929ad694b404f5a80c96a12caed049e) to install._**
 
 ## ![](readme_images/new-word.png) Review Word
 ### Description
 The companion Shortcut to "Learn New Word". When you run it, a word will be picked at random and you'll be prompted to recall its definition. Click "OK" to see the word's definition and find out if you were right!
 
 ### Installation
-**_Click [here](shortcuts/Review%20Word.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/633bd7e2ac9f48deb41d63e62aa4222a) to install._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
