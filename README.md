@@ -142,7 +142,7 @@ Will let you search [Emojipedia](https://emojipedia.org). You can call it direct
 I created this as I find the built in iOS emoji keyboard inefficient, particularly if I'm looking for emoji ideas rather than a specific emoji.
 
 ### Installation & Dependencies
-**_Click [here](Emoji%20Lookup.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/915de992236a435bb0d43235a535738a) to install._**
 
 ⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
 
