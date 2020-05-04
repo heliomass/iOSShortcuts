@@ -131,7 +131,7 @@ On first run, it'll ask you how many minutes you prefer your tea to be brewed, a
 Simply searches Google. Run the shortcut directly to be prompted. Use the shortcut in the Share Sheet with highlighted text to search from anywhere.
 
 ### Installation & Dependencies
-**_Click [here](shortcuts/Search.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1ee7179eb7454e3886aec935b28a9cd1) to install._**
 
 ⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
 
