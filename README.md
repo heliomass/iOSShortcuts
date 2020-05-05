@@ -227,7 +227,7 @@ Call this Shortcut to get the date of the first day of the current week. For exa
 
 On installation, you'll be prompted to choose Sunday or Monday as your first day of the week.
 
-**_Click [here](functions/First%20Day%20of%20Week.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/ab6c57d6891a4ac7aff5ac7f7b5fb738) to install._**
 
 ### Fire IFTTT Webhook
 Back in the days of Workflow, there was a built-in action to trigger an [IFTTT](https://ifttt.com) "applet", but this was removed when Apple bought Workflow and renamed it Shortcuts.
