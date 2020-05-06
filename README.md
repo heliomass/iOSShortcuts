@@ -218,7 +218,7 @@ The user will then be prompted to fill out the missing information in the case t
 ### Filter Shortcuts and Run
 Provided a list of Shortcut names (as strings), the user will be prompted to select a workflow to run. You can use this to create drill-downs and sub-menus to better organise your shortcuts.
 
-**_Click [here](https://www.icloud.com/shortcuts/2a11a466932d4160b173ae8af9992981) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/3b156733d2fe45be8016e7ab06bc2a69) to install._**
 
 ⚠️ _If you have many Shortcuts installed, running this shortcut will cause the Shortcuts app's Today widget to crash. This is a limitation of iOS which restricts the amount of memory a widget has available. I hope iOS 13 will fix this, but in the interim if you're affected, you may want to utilise the "Continue Shortcut in App" action just before calling this shortcut._
 
