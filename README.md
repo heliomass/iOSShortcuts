@@ -213,7 +213,7 @@ To use, create a dictionary with the following two keys and pass it to the Input
 
 The user will then be prompted to fill out the missing information in the case the Shortcut Input was empty.
 
-**_Click [here](functions/Input%20Filter.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/0fbd42d518754c20b106be2929e09243) to install._**
 
 ### Filter Shortcuts and Run
 Provided a list of Shortcut names (as strings), the user will be prompted to select a workflow to run. You can use this to create drill-downs and sub-menus to better organise your shortcuts.
