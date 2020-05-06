@@ -247,4 +247,4 @@ Note that _all four_ items in the dictionary need to be present, even if the "Va
 
 Anything returned by IFTTT can be captured after calling the shortcut.
 
-**_Click [here](functions/Fire%20IFTTT%20Webhook.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/d80e158fdf17458fbc6e319b43e30e27) to install._**
