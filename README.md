@@ -11,8 +11,6 @@ _(To view the original collection of Workflows for iOS 11 and earlier using Work
 * [Do Not Disturb](#-do-not-disturb)
 * [Down for Everyone?](#-down-for-everyone)
 * [Brew Tea](#-brew-tea)
-* [Metro Status](#-metro-status)
-* [Bixi](#-bixi)
 * [Search](#-search)
 * [Emoji Lookup](#-emoji-lookup)
 * [Mobile Kanban](#-mobile-kanban)
@@ -69,7 +67,7 @@ Installation and setup requires a few separate steps to complete, but once done 
     
 3. **Download and Configure the Shortcut**
 
-    **_Click [here](shortcuts/Replenish.shortcut) to install_**.
+    **_Click [here](https://www.icloud.com/shortcuts/cee9e7442272427ca01ea46de4e87499) to install_**.
     
     When you run it for the first time, you'll be asked for the following information:
     
@@ -93,7 +91,7 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 ![](readme_images/cabfarecalculator02.png)
 
 ### Installation
-**_Click [here](shortcuts/Cab%20Fare%20Calculator.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1b4cc3bfd96b42cbb5a538c286b077da) to install._**
 
 ## ![](readme_images/officebucket-icon-small.png) Office Bucket
 
@@ -101,7 +99,7 @@ This Shortcut provides a Today widget to calculate the tip for you, telling you 
 This is for when you remember something you need to do at the office, but you're not at the office. Run this Shortcut and it will be added to a Reminders list. Then, you can forget about the task until you arrive at the office. The reminder item is tied to your office location, so you'll get a friendly reminder on arrival at your desk.
 
 ### Installation
-**_Click [here](shortcuts/Office%20Bucket.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/dda350109be647529bcbc23628c32613) to install._**
 
 ## ![](readme_images/donotdisturb-icon-small.png) Do Not Disturb
 
@@ -109,14 +107,14 @@ This is for when you remember something you need to do at the office, but you're
 Provides more granular control over Do Not Disturb (DND) from the widget. Whereas Control Center lets you set DND for one hour, this Shortcut will let you activate DND until a specific time.
 
 ### Installation
-**_Click [here](shortcuts/Do%20Not%20Disturb.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/5ea2bf50a6524d06bc622788b49d1ed1) to install._**
 
 ## ![](readme_images/downforeveryone-icon-small.png) Down for Everyone?
 ### Description
 Consults [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) to tell you the status of the current web page. Call it up from the iOS share sheet in your favourite browser when a website won't load, and it'll tell you if the site is down or not.
 
 ### Installation
-**_Click [here](shortcuts/Down%20for%20Everyone.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/3d7ed0c154c54b02beeab3a32215777f) to install._**
 
 ## ![](readme_images/brewtea-icon-small.png) Brew Tea
 
@@ -126,40 +124,14 @@ Sets a tea timer. Very important.
 On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
 
 ### Installation
-**_Click [here](shortcuts/Brew%20Tea.shortcut) to install._**
-
-## ![](readme_images/mtlmetrostatus-icon-small.png) Metro Status
-### Description
-Metro Status provides realtime updates on the status of the Montreal Metro direct from [metroapp.heliomass.com](http://metroapp.heliomass.com) in your Today widget.
-
-![](readme_images/mtlmetrostatus01.png)
-
-![](readme_images/mtlmetrostatus02.png)
-
-### Installation
-**_Click [here](shortcuts/Metro%20Status.shortcut) to install._**
-
-## ![](readme_images/bixi-icon-small.png) Bixi
-### Description
-Locates the nearest Montreal [Bixi](http://bixi.com) dock in your Today Widget, and tells you how many bikes and free docks are available. Optionally, it will also provide walking or cycling directions.
-
-I created this because sometimes you know the area and just want to see at a glance which cross-street the nearest station is at, and whether you could dock your bike there.
-
-![](readme_images/bixi01.png)
-
-![](readme_images/bixi02.png)
-
-This widget is powered by [Bixi Time](http://bixitime.com). You can get the source code for Bixi Time [here](https://github.com/euoia/bixitime-website).
-
-### Installation
-**_Click [here](shortcuts/Bixi.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1a66760e59034d3bb18970ea4225da50) to install._**
 
 ## ![](readme_images/search-icon-small.png) Search
 ### Description
 Simply searches Google. Run the shortcut directly to be prompted. Use the shortcut in the Share Sheet with highlighted text to search from anywhere.
 
 ### Installation & Dependencies
-**_Click [here](shortcuts/Search.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1ee7179eb7454e3886aec935b28a9cd1) to install._**
 
 ⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
 
@@ -170,7 +142,7 @@ Will let you search [Emojipedia](https://emojipedia.org). You can call it direct
 I created this as I find the built in iOS emoji keyboard inefficient, particularly if I'm looking for emoji ideas rather than a specific emoji.
 
 ### Installation & Dependencies
-**_Click [here](Emoji%20Lookup.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/915de992236a435bb0d43235a535738a) to install._**
 
 ⚠️ **_You will need the [Input Filter](#input-filter) function installed._**
 
@@ -181,7 +153,7 @@ If you have a physical [Kanban](https://en.wikipedia.org/wiki/Kanban) at home or
 The Shortcut provides an option to either take "View" or "Record" the Kanban. Choose "Record" to take a fresh photo which will overwrite the existing one.
 
 ### Installation
-**_Click [here](shortcuts/Mobile%20Kanban.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/1df3ace417c943d0b83a965d51a329e6) to install._**
 
 ## ![](readme_images/budget.png) Budget
 ### Description
@@ -190,7 +162,7 @@ I give myself a weekly budget to limit how much I spend on snacks and coffee dur
 ### Installation
 On installation, you'll be prompted to enter your budget for the week.
 
-**_Click [here](shortcuts/Budget.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/74264e440ce142eda500c611b7e5e120) to install._**
 
 ⚠️ **_You will need the [First Day of Week](#first-day-of-week) function installed._**
 
@@ -204,14 +176,14 @@ Every come across a new word you had to look up, and wanted to retain its meanin
 Use this Shortcut with "Review Word".
 
 ### Installation
-**_Click [here](shortcuts/Learn%20New%20Word.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/c929ad694b404f5a80c96a12caed049e) to install._**
 
 ## ![](readme_images/new-word.png) Review Word
 ### Description
 The companion Shortcut to "Learn New Word". When you run it, a word will be picked at random and you'll be prompted to recall its definition. Click "OK" to see the word's definition and find out if you were right!
 
 ### Installation
-**_Click [here](shortcuts/Review%20Word.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/633bd7e2ac9f48deb41d63e62aa4222a) to install._**
 
 ## ![](readme_images/guessthenumber-icon-small.png) Guess the Number
 ### Description
@@ -224,7 +196,7 @@ A simple game for your Today widget. Try and guess the secret number in under 10
 ![](readme_images/guessthenumber03.png)
 
 ### Installation
-**_Click [here](shortcuts/Guess%20the%20Number.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/bdb916906cfd40c5bf9d409006b8274f) to install._**
 
 ## ![](readme_images/functions-icon-small.png) Functions
 Functions are Shortcuts which get called from other Shortcuts. They provide reusable functionality for common tasks. Some of the main Shortcuts here may have dependencies on these.
@@ -241,12 +213,12 @@ To use, create a dictionary with the following two keys and pass it to the Input
 
 The user will then be prompted to fill out the missing information in the case the Shortcut Input was empty.
 
-**_Click [here](functions/Input%20Filter.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/0fbd42d518754c20b106be2929e09243) to install._**
 
 ### Filter Shortcuts and Run
 Provided a list of Shortcut names (as strings), the user will be prompted to select a workflow to run. You can use this to create drill-downs and sub-menus to better organise your shortcuts.
 
-**_Click [here](functions/Filter%20Shortcuts%20and%20Run.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/3b156733d2fe45be8016e7ab06bc2a69) to install._**
 
 ⚠️ _If you have many Shortcuts installed, running this shortcut will cause the Shortcuts app's Today widget to crash. This is a limitation of iOS which restricts the amount of memory a widget has available. I hope iOS 13 will fix this, but in the interim if you're affected, you may want to utilise the "Continue Shortcut in App" action just before calling this shortcut._
 
@@ -255,7 +227,7 @@ Call this Shortcut to get the date of the first day of the current week. For exa
 
 On installation, you'll be prompted to choose Sunday or Monday as your first day of the week.
 
-**_Click [here](functions/First%20Day%20of%20Week.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/ab6c57d6891a4ac7aff5ac7f7b5fb738) to install._**
 
 ### Fire IFTTT Webhook
 Back in the days of Workflow, there was a built-in action to trigger an [IFTTT](https://ifttt.com) "applet", but this was removed when Apple bought Workflow and renamed it Shortcuts.
@@ -275,4 +247,4 @@ Note that _all four_ items in the dictionary need to be present, even if the "Va
 
 Anything returned by IFTTT can be captured after calling the shortcut.
 
-**_Click [here](functions/Fire%20IFTTT%20Webhook.shortcut) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/d80e158fdf17458fbc6e319b43e30e27) to install._**
