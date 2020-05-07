@@ -1,7 +1,7 @@
 # iOS Shortcuts
 A collection of shortcuts for the [Shortcuts app](https://support.apple.com/en-ca/HT208309).
 
-_(To view the original collection of Workflows for iOS 11 and earlier using Workflow App, [click here](https://github.com/heliomass/iOSWorkflows/tree/v1).)_
+_(To view the iOS 12 collection of Shortcuts, [click here](https://github.com/heliomass/iOSShortcuts/tree/v2). For the original collection of "Workflows" for iOS 11 and earlier using Workflow App, [click here](https://github.com/heliomass/iOSWorkflows/tree/v1).)_
 
 ## Table of Contents
 
