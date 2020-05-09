@@ -124,7 +124,7 @@ Sets a tea timer. Very important.
 On first run, it'll ask you how many minutes you prefer your tea to be brewed, as well as which Reminders list to use. After that, you can launch it from the widget whenever you need it.
 
 ### Installation
-**_Click [here](https://www.icloud.com/shortcuts/1a66760e59034d3bb18970ea4225da50) to install._**
+**_Click [here](https://www.icloud.com/shortcuts/753e61fc2c3146349aa5edf7182cf3ed) to install._**
 
 ## ![](readme_images/search-icon-small.png) Search
 ### Description
